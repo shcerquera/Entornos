@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Entornos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Entornos_jar</output-path>
+    <root id="archive" name="Entornos.jar">
+      <element id="module-output" name="Actividad5_Sarita_Cerquera" />
+      <element id="module-output" name="BusinessLogic" />
+      <element id="module-output" name="DataAccees" />
+    </root>
+  </artifact>
+</component>
